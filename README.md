@@ -1,5 +1,5 @@
 # React-Native-Instagram-Clone
-add image
+add images <><\>
 <b>Title:</b> React-Native-Instagram-Clone<br>
 <br>
 <b>Detail :</b> Hello, In this project i made an instagram clone! You can login and sign up.
