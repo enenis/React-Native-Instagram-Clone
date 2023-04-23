@@ -3,6 +3,7 @@ import { View,Text,Image } from 'react-native'
 import styles from './PostCard.style'
 function PostCard({items}) {
   return (
+    // Card Section
     <View style={styles.container}>
         <View style={styles.inner_container}>
             <Image style={styles.image} source={{uri:items.image}} />
