@@ -26,6 +26,3 @@ enenissoftware
 <hr>
 
 
-![Screenshot_1]()
-![Screenshot_2]()
-![Screenshot_3]()
