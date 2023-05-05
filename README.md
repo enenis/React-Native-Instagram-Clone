@@ -6,13 +6,13 @@
 <b>Detailed Photo's:</b><br>
 <br><b>Menu Screen:<br></b>
 <small>Updated!</small>
-<img src="https://user-images.githubusercontent.com/99321522/227909249-0ec32962-05ab-48df-9f00-644e714bae4f.png" width="370" height="800" />
-<img src="https://user-images.githubusercontent.com/99321522/227909442-6396340d-5577-4f52-a5f8-235de50475b2.png" width="370" height="800" />
+<img src="https://user-images.githubusercontent.com/99321522/236436134-cfe4185b-4c2c-4bb8-9616-89f58226c46f.png" width="370" height="800" />
+<img src="https://user-images.githubusercontent.com/99321522/236436161-9ba39a8d-6d83-4c6d-8baa-9d99b7a8e9a6.png" width="370" height="800" />
 <br>
 <hr>
 <br><b>Menu Refresh Screen:<br></b>
 <small>Updated!</small>
-<img src="https://user-images.githubusercontent.com/99321522/227909651-eda760b9-c2ad-4d09-930f-ec44e9f6975e.png" width="370" height="800" />
+<img src="https://user-images.githubusercontent.com/99321522/236436170-6e724e56-67d6-49c4-8bb2-dc549438f6b9.png" width="370" height="800" />
 <br>
 <hr>
 
@@ -23,3 +23,6 @@ enenissoftware
 <hr>
 
 
+![Screenshot_1]()
+![Screenshot_2]()
+![Screenshot_3]()
