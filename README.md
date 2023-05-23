@@ -19,7 +19,7 @@
 <br>
 <hr>
 
-<small>Thank you so much for reading and reviewing this far...</small><br>
+<small>Thank you so much for reading and reviewing this far.</small><br>
 ~Enis Kayra Yavuz
 enenissoftware
 
