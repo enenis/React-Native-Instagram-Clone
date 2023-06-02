@@ -9,7 +9,7 @@
 <img src="https://user-images.githubusercontent.com/99321522/236436134-cfe4185b-4c2c-4bb8-9616-89f58226c46f.png" width="370" height="800" />
 <hr>
 <br><b>Menu Refresh Screen:<br></b>
-<img src="https://user-images.githubusercontent.com/99321522/236436161-9ba39a8d-6d83-4c6d-8baa-9d99b7a8e9a6.png" width="370" height="800" />
+<img src="https://user-images.githubusercontent.com/99321522/236436161-9ba39a8d-6d83-4c6d-8baa-9d99b7a8e9a6.png" width="380" height="800" />
 <br>
 
 <br><b>Bottom Screen:<br></b>
